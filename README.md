@@ -21,5 +21,5 @@ This is a Blazor Web App that implements Microsoft Active Directory (AD) authent
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/figjam87/BlazorAppWithGraph.git
+cd BlazorAppWithGraph
